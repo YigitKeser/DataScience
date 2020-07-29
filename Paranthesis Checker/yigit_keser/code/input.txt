@@ -1,0 +1,8 @@
+print(x[6])
+x = [((1+2)*(4-3))]
+nested_dict = { 'dictA': {'key_1': 'value_1'}, 'dictB': {'key_2': 'value_2'}}
+print('{}. Name: {}, Price: {}'.format(i,str_name,a[0]))
+print('Course: {}, Number of Students: {}]'.format('ITC547', 15))
+y = ]]6
+z = 14 * 8
+p = (((4+2)
